@@ -1,0 +1,101 @@
+body{
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+   /* width: 10px;*/
+    margin:0 auto 0 auto;
+    font-family: 'sacramento',cursive;
+    font-size: 90px;
+    color:  #66BFBF;
+    line-height: 1;
+
+  
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    /*color: #66BFBF;*/
+    font-weight: normal;
+    color: #66BFBF;
+    margin:20 auto 20 auto
+}
+p{
+    font-family: cursive;
+}
+div{
+    /*background-color: #e4f9f5;*/
+
+}
+.STO{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left: 350px;
+    bottom: 300px;
+}
+.top-cloud{
+    position:relative;
+    left: 300px;
+    top: 50px;
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+}
+.image{
+    width: 35%;
+    height: 35%;
+   /* float: left;
+    margin-right: 30px;*/
+}
+.img{
+    float: left;
+    margin-right: 30px;
+    margin: 30px;
+}
+.imag{
+    float:right;
+    margin-right: 30px;
+}
+.img:hover{
+    border-radius: 50%;
+}
+.image:hover{
+    border-radius: 50%;
+}
+.Skills{
+    padding-top: 20px;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+.DD{
+    padding-top: 20px;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+.profile{
+    padding-top: 20px;
+    width: 50%;
+    margin: 50px auto 50px auto;
+   /* text-align: left;*/
+}
+.contact-me{
+    padding-top: 70px;
+    text-align: center;
+}
+.middle-container{
+    margin: 100px 0 ;
+}
+.Touch{
+    text-align: center;
+}
+/*.profile{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}*/
